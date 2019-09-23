@@ -1,6 +1,0 @@
-README.md
-setup.py
-giantbls.egg-info/PKG-INFO
-giantbls.egg-info/SOURCES.txt
-giantbls.egg-info/dependency_links.txt
-giantbls.egg-info/top_level.txt
